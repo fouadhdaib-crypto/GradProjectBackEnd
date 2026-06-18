@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fgQDQOue3tU=",
+  "dgSpecHash": "ee9+A7oRcyY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fouad\\source\\repos\\GradProject\\businessLayer_GP\\businessLayer_GP.csproj",
+  "projectFilePath": "C:\\Users\\fouad\\Downloads\\FOUADGIT\\backEndProject\\GradProjectBackEnd\\businessLayer_GP\\businessLayer_GP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fouad\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
     "C:\\Users\\fouad\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",

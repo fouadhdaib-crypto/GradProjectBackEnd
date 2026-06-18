@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hA3TyrRJw/g=",
+  "dgSpecHash": "VSkW2mx+4Jk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fouad\\source\\repos\\GradProject\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\fouad\\Downloads\\FOUADGIT\\backEndProject\\GradProjectBackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fouad\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
     "C:\\Users\\fouad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
