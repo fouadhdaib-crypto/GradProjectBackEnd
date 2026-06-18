@@ -1,0 +1,1 @@
+﻿Handles database operations using Entity Framework Core.

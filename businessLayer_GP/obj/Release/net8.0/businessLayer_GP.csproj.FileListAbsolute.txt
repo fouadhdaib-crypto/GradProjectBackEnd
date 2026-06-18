@@ -1,0 +1,15 @@
+C:\Users\fouad\source\repos\businessLayer_GP\bin\Release\net8.0\businessLayer_GP.deps.json
+C:\Users\fouad\source\repos\businessLayer_GP\bin\Release\net8.0\businessLayer_GP.dll
+C:\Users\fouad\source\repos\businessLayer_GP\bin\Release\net8.0\businessLayer_GP.pdb
+C:\Users\fouad\source\repos\businessLayer_GP\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\fouad\source\repos\businessLayer_GP\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.csproj.AssemblyReference.cache
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.AssemblyInfoInputs.cache
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.AssemblyInfo.cs
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.csproj.CoreCompileInputs.cache
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\business.DAC67852.Up2Date
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.dll
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\refint\businessLayer_GP.dll
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\businessLayer_GP.pdb
+C:\Users\fouad\source\repos\businessLayer_GP\obj\Release\net8.0\ref\businessLayer_GP.dll
